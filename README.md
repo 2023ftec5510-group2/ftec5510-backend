@@ -1,5 +1,4 @@
-# ftec5510-backend
-FTEC5510 Course Project
+# FTEC5510 Course Project - Backend
 
 Developed by Vincent Lau
 CUHK Student ID: 1155178735
